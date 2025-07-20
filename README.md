@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Díaz</h1>
-<h3 align="center">Dedicated to creating innovative IA solutions that revolutionize industries</h3>
+<h3 align="center">Dedicated to creating innovative AI solutions</h3>
 
 - 📄 Know about my experiences [https://marcelodiaz.me](https://marcelodiaz.me)
 
